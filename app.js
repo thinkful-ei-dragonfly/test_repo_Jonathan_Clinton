@@ -1,2 +1,2 @@
-const myTeam = " Jonathan and Clinton";
+const myTeam = "Jonathan and Clinton";
 console.log(myTeam);
